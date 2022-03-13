@@ -1,1 +1,1 @@
-# Paint-It-
+# Paint-It
